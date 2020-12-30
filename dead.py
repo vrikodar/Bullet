@@ -97,6 +97,7 @@ print("[*]Hit Contorl+C to cancel")
 time.sleep(30)
 
 print(colored("\nSWITCH IS ON NOW!\n", 'red', attrs=['bold']))
+print(golo)
 
 try:
     while True:
