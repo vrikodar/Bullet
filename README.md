@@ -1,2 +1,3 @@
 # Bullet
-Coming Soon....
+
+`Bullet is a Deadman switch password Encryptor`
