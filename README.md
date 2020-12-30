@@ -13,3 +13,6 @@
 ![Capture](https://thumbs.gfycat.com/BriskScalyDodo-size_restricted.gif)
 
 `Bullet is a Deadman switch password Encryptor`
+
+
+**ISTRUCTIONS WILL BE ADDED ON 30 DECEMBER**
