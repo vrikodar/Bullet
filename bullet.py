@@ -1,3 +1,8 @@
+ 
+#By SxNade
+#https://github.com/SxNade
+#CONTRIBUTE
+
 import os
 import sys
 import bcrypt
@@ -49,7 +54,7 @@ def file_write(enc_pass):
 def main():
     if len(sys.argv) != 3:
         intro()
-    elif os.path.exists('ps.txt') == False and os.path.exists(sys.argv[1]):
+    elif os.path.exists('ps.txt') == False or os.path.exists(sys.argv[1]) == False:
         intro()
         print(colored("\n\n[*] ps.txt or given password File is missing...!!\n", 'red'))
     else:
