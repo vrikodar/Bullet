@@ -1,3 +1,7 @@
+#By SxNade
+#https://github.com/SxNade
+#CONTRIBUTE
+
 import os
 import sys
 from termcolor import colored
