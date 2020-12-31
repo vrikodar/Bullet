@@ -58,4 +58,6 @@
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/pass_list.png)
 
+*I HAVE CREATED A PASSWORD LIST NAMED `pass.txt` AND NOW ITS TIME TO RUN OUR DEADMAN SWITCH*
+
 
