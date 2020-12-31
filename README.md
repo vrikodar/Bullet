@@ -105,5 +105,22 @@
 
 **The original file pass.txt containing the unencrypted passwords has been removed**
 
+# `MORE_INFO`
 
+*The capabilities of bullet can be extended from what they are right now-- that is the code can be modified to send emails to specified address before dying!*
+
+**OR**
+
+`IT can also act as a Triggrable ransomware`
+
+# ADDITIONS
+
+**MORE ADDITIONAL FEATURES WILL BE ADDED BULLET IN UPCOMING DAYS**
+
+
+# MAKE_IT_BETTER
+
+*In order to make bullet even better contribute or report any bugs or fixes required*
+
+`git clone https://github.com/SxNade/Bullet`
 
