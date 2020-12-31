@@ -54,4 +54,8 @@
 
 **NOW THAT WE HAVE OUR SERVER RUNNING WE WILL RUN OUR SCRIPT `dead.py` ALONG WITH OUR SERVER RUNNING**
 
+*BUT BEFORE WE WILL ALSO CREATE A SIMPLE PASSWORD LIST*
+
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/pass_list.png)
+
 
