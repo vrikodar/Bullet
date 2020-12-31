@@ -99,5 +99,11 @@
 
 *NOW LETS JUST VIEW THE CONTENTS OF THE `ps.txt` FILE*
 
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/enc_ps.png)
+
+*AND ALL THE PASSWORDS ARE NOW ECRYPTED AND SAVED TO `ps.txt` FILE*
+
+**The original file pass.txt containing the unencrypted passwords has been removed**
+
 
 
