@@ -37,7 +37,7 @@
 
 # INTEGRATING DEAD-MAN SWITCH
 
-**IN ORDER TO UTILIZE BULLET AS DEAD-MAN SWITCH YOU CAN RUN A LOCAL PYTHON SERVER ON LETS SAY PORT 8080 --- AND THEN RUN switch.py with the URL of server as argument**
+**IN ORDER TO UTILIZE BULLET AS DEAD-MAN SWITCH YOU CAN RUN A LOCAL PYTHON SERVER ON LETS SAY PORT 8080 --- AND THEN RUN dead.py with the URL of server as argument**
 
 # RUNNING DEAD-MAN SWITCH
 
@@ -51,5 +51,7 @@
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/server.png)
 
 *the current directory also contains a file test.txt*
+
+**NOW THAT WE HAVE OUR SERVER RUNNING WE WILL RUN OUR SCRIPT `dead.py` ALONG WITH OUR SERVER RUNNING**
 
 
