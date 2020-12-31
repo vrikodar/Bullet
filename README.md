@@ -28,6 +28,9 @@
 `2 ./install.sh`
 
 # HOW  DOES BULLET WORK?
+
+**BEFORE RUNNING BULLET PLEASE EMPTY THE CONTENTS OF PS.TXT FILE(EVEN A DOT)**
+
 *Bullet comes with Two Python Scripts bullet.py and switch.py*
 
 **Bullet.py can be run individualy with respective arguments**
