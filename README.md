@@ -61,3 +61,11 @@
 *I HAVE CREATED A PASSWORD LIST NAMED `pass.txt` AND NOW ITS TIME TO RUN OUR DEADMAN SWITCH*
 
 
+**python3 dead.py <password-file-name(or path)> <server-url>**
+  
+*IN our scenario this command will be `python3 pass.txt http://192.168.0.108:8080/test.txt`*
+
+**we will see that a timer will be displayed**
+
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/count.png)
+
