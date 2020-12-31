@@ -78,3 +78,8 @@
 *WE CAN SEE FROM THE IMAGE ABOVE THAT THE SWITCH IS MAKING A HTTP GET REQUEST EVERY 5 SECONDS FOR THE `test.txt` FILE WHICH WE CREATED BEFORE*
 
 **NOW WE WILL REMOVE THE `test.txt` FILE FROM THE PYTHON SERVER AND SEE HOW THE SWITCH REACTS TO IT**
+
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/triggered.png)
+
+*we can see that as soon as we removed the file test.txt we get a message in terminal that switch is triggered(we can also see the file not found error in server logs)*
+
