@@ -94,5 +94,7 @@
 
 **we get notified that the encrypted passwords have been written to a ps.txt file**
 
+*NOW LETS JUST VIEW THE CONTENTS OF THE `ps.txt` FILE*
+
 
 
