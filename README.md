@@ -83,3 +83,4 @@
 
 *we can see that as soon as we removed the file test.txt we get a message in terminal that switch is triggered(we can also see the file not found error in server logs)*
 
+**AFTER THE SWITCH GETS TRIGGERED FOLLOWING HAPPENS**
