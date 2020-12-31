@@ -21,7 +21,7 @@
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/bullet.gif)
 
 
-# INSTALLING
+# `INSTALLING`
 
 *to install the required dependencies run the following commands in order*
 
@@ -29,7 +29,7 @@
 
 `2 ./install.sh`
 
-# HOW  DOES BULLET WORK?
+# `HOW  DOES BULLET WORK?`
 
 **BEFORE RUNNING BULLET PLEASE EMPTY THE CONTENTS OF PS.TXT FILE(EVEN A DOT)**
 
@@ -45,11 +45,11 @@
 
 **PLEASE KEEP A NOTE THAT AFTER SUCCESSFULL ENCRYPTION OF PASSWORDS THE ORIGINAL FILE CONTAINING UNENCRYPTED PASSWORDS WILL BE DELETED**
 
-# INTEGRATING DEAD-MAN SWITCH
+# `INTEGRATING DEAD-MAN SWITCH`
 
 **IN ORDER TO UTILIZE BULLET AS DEAD-MAN SWITCH YOU CAN RUN A LOCAL PYTHON SERVER ON LETS SAY PORT 8080 --- AND THEN RUN dead.py with the URL of server as argument**
 
-# RUNNING DEAD-MAN SWITCH
+# `RUNNING DEAD-MAN SWITCH`
 
 *WE WILL START BY RUNNING A PYTHON SERVER ON A SPECIFIC PORT LETS SAY 8080 WITH THE FOLLOWING COMMAND*
 
@@ -115,12 +115,12 @@
 
 `IT can also act as a Triggrable ransomware`
 
-# ADDITIONS
+# `ADDITIONS`
 
 **MORE ADDITIONAL FEATURES WILL BE ADDED BULLET IN UPCOMING DAYS**
 
 
-# MAKE_IT_BETTER
+# `MAKE_IT_BETTER`
 
 *In order to make bullet even better contribute or report any bugs or fixes required*
 
