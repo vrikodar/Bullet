@@ -14,6 +14,11 @@
 
 `Bullet is a Deadman switch password Encryptor`
 
+**when Triggered**
+
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/bullet.gif)
+
+
 # INSTALLING
 
 *to install the required dependencies run the following commands in order*
