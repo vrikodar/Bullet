@@ -48,3 +48,8 @@
 
 `python -m SimpleHTTPServer 8080`
 
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/server.png)
+
+*the current directory also contains a file test.txt*
+
+
