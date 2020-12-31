@@ -14,6 +14,8 @@
 
 `Bullet is a Deadman switch password Encryptor`
 
+**MADE BY-SxNade
+
 **when Triggered**
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/bullet.gif)
