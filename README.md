@@ -14,5 +14,37 @@
 
 `Bullet is a Deadman switch password Encryptor`
 
+# INSTALLING
 
-**ISTRUCTIONS WILL BE ADDED ON 30 DECEMBER**
+*to install the required dependencies run the following commands in order*
+
+`1 chmod +x install.sh`
+
+`2 ./install.sh`
+
+# HOW  DOES BULLET WORK?
+*Bullet comes with Two Python Scripts bullet.py and switch.py*
+
+**Bullet.py can be run individualy with respective arguments**
+
+`python3 bullet.py file-name(path) start`
+
+**KEEP A NOTE THAT 3rd Argument can be anything when running bullet.py individually..It's required to just full fill the sys.argv condition(required for switch.py)**
+
+*Bullet can be given a password-file name as argument to script and when run successfully bullet will encrypt all the passwords present in that file and write them to another file  in encrypted form*
+
+**PLEASE KEEP A NOTE THAT AFTER SUCCESSFULL ENCRYPTION OF PASSWORDS THE ORIGINAL FILE CONTAINING UNENCRYPTED PASSWORDS WILL BE DELETED**
+
+# INTEGRATING DEAD-MAN SWITCH
+
+**IN ORDER TO UTILIZE BULLET AS DEAD-MAN SWITCH YOU CAN RUN A LOCAL PYTHON SERVER ON LETS SAY PORT 8080 --- AND THEN RUN switch.py with the URL of server as argument**
+
+# RUNNING DEAD-MAN SWITCH
+
+*WE WILL START BY RUNNING A PYTHON SERVER ON A SPECIFIC PORT LETS SAY 8080 WITH THE FOLLOWING COMMAND*
+
+**the directory in which the python server is run has a test.txt file which will act as a trigger to our DEAD-MAN Switch**
+
+
+`python -m SimpleHTTPServer 8080`
+
