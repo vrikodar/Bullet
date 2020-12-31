@@ -14,7 +14,7 @@
 
 `Bullet is a Deadman switch password Encryptor`
 
-**MADE BY-SxNade
+**MADE BY-SxNade**
 
 **when Triggered**
 
