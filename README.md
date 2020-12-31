@@ -69,3 +69,5 @@
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/count.png)
 
+**we will not hit ctrl+c and will let the program continue**
+
