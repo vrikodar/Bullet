@@ -71,3 +71,7 @@
 
 **we will not hit ctrl+c and will let the program continue**
 
+**AFTER 30 SECONDS OF COUNTDWON**
+
+![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/requests.png)
+
