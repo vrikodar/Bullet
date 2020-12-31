@@ -87,3 +87,7 @@
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/executed.png)
 
+**we get notified that the encrypted passwords have been written to a ps.txt file**
+
+
+
