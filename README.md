@@ -75,3 +75,4 @@
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/requests.png)
 
+*WE CAN SEE FROM THE IMAGE ABOVE THAT THE SWITCH IS MAKING A HTTP GET REQUEST EVERY 5 SECONDS FOR THE `test.txt` FILE WHICH WE CREATED BEFORE*
