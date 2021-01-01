@@ -7,6 +7,8 @@ import sys
 from termcolor import colored
 import requests
 import time
+#importing the required libraries
+
 
 golo = '''
                               .___.
@@ -25,6 +27,7 @@ golo = '''
 if len(sys.argv) != 3:
     print("python3 dead.py <password-file-name(or path)> <server-url>")
     sys.exit(0)
+#check for system argumenst length
 
 dead_countdown = '''
               ..:::::::::..
@@ -98,6 +101,7 @@ print(dead_countdown + "\n\n")
 print(colored("STARTING DEAD-MAN SWITCH IN 30 SECONDS...", 'red', attrs=['reverse', 'blink', 'bold']))
 print("[*]Hit Contorl+C to cancel")
 
+#setting the countdown time
 time.sleep(30)
 
 print(colored("\nSWITCH IS ACTIVE NOW!\n", 'red', attrs=['bold']))
@@ -106,15 +110,20 @@ print(golo)
 try:
     while True:
         time.sleep(5)
+        #make a get request to file url(server) given by the user
         r = requests.get(sys.argv[2])
+        #check for status code that is if the file exists on the server or not
         if r.status_code == 200:
             print(colored("OK", 'green'))
             pass
         else:
+          #if the file was not found
             print(colored("[*]SWITCH TRIGGERRED!", 'red', attrs=['reverse', 'blink']))
+            #running the bullet.py script to encrypt the file contents
             os.system(f"python3 bullet.py {sys.argv[1]} {sys.argv[2]}")
             print(already_dead)
             sys.exit(0)
 except KeyboardInterrupt:
+  #Avoiding keyboard interrupt errors to be displayed on screen (CLEAN!!)
     print(colored("Exiting CountDown....!!", 'red', attrs=['reverse', 'blink']))
     sys.exit(0)
