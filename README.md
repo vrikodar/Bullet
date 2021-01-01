@@ -33,7 +33,7 @@
 
 **BEFORE RUNNING BULLET PLEASE EMPTY THE CONTENTS OF PS.TXT FILE(EVEN A DOT)**
 
-*Bullet comes with Two Python Scripts bullet.py and switch.py*
+*Bullet comes with Two Python Scripts bullet.py and dead.py*
 
 **Bullet.py can be run individualy with respective arguments**
 
