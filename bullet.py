@@ -44,6 +44,7 @@ def encrypt():
             #running file_write function on each encrypted password to save them to a new file
             file_write(enc_pass)
     print(colored("{succesfully encrypted passwords}", 'white', attrs=['reverse', 'blink']))
+    #removing the original file with unencrypted contents
     os.remove(sys.argv[1])
 
 #Function that makes a new file that will store the encrypted passwords
