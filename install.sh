@@ -1,3 +1,7 @@
+#By SxNade
+#https://github.com/SxNade
+#CONTRIBUTE
+
 echo [*]This Script will install the required dependencies for bullet!
 sudo apt install python3-pip
 sudo apt install python3
