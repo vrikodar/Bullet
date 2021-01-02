@@ -1,5 +1,5 @@
 #By SxNade
-#https://github.com/SxNade
+#https://github.com/SxNade/Bullet
 #CONTRIBUTE
 
 echo [*]This Script will install the required dependencies for bullet!
