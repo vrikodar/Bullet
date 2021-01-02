@@ -1,5 +1,5 @@
 #By SxNade
-#https://github.com/SxNade
+#https://github.com/SxNade/Bullet.py
 #CONTRIBUTE
 
 import os
