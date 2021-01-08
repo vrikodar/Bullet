@@ -10,7 +10,7 @@
 
 # Bullet
 
-![Capture](https://thumbs.gfycat.com/BriskScalyDodo-size_restricted.gif)
+![Capture](https://i.pinimg.com/originals/f4/f8/dd/f4f8ddffc474c65e9a48eaad11eaf9f7.gif)
 
 `Bullet is a Deadman switch password Encryptor`
 
