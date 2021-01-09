@@ -18,6 +18,8 @@
 
 **when Triggered**
 
+(of --> to)
+
 ![Capture](https://github.com/SxNade/Bullet/blob/main/bullet.gif)
 
 
