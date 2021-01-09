@@ -53,7 +53,7 @@ def file_write(enc_pass):
     file = open('ps.txt', 'a')
     file.write(f"\n{enc_pass}\n")
     file.close()
-    print(colored("\n[*]Contents Written of File----\n", 'red'))
+    print(colored("\n[*]Contents Written to File----\n", 'red'))
     print("\n\n")
 
 #main function that initiates the execution of whole program and also performs a check on system argument length
