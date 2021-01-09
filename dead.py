@@ -9,6 +9,7 @@ import requests
 import time
 #importing the required libraries
 
+n2 = 0
 
 golo = '''
                               .___.
@@ -114,16 +115,19 @@ try:
         r = requests.get(sys.argv[2])
         #check for status code that is if the file exists on the server or not
         if r.status_code == 200:
-            print(colored("OK", 'green'))
+            n = n2
+            print(colored(f"request no.{n2} OK", 'green'))
+            n2 = int(n) + int(1)
             pass
         else:
           #if the file was not found
-            print(colored("[*]SWITCH TRIGGERRED!", 'red', attrs=['reverse', 'blink']))
-            #running the bullet.py script to encrypt the file contents
-            os.system(f"python3 bullet.py {sys.argv[1]} {sys.argv[2]}")
-            print(already_dead)
-            sys.exit(0)
+          print(colored("[*]SWITCH TRIGGERRED!", 'red', attrs=['reverse', 'blink']))
+          #running the bullet.py script to encrypt the file contents
+          os.system(f"python3 bullet.py {sys.argv[1]} {sys.argv[2]}")
+          print(already_dead)
+          sys.exit(0)
 except KeyboardInterrupt:
   #Avoiding keyboard interrupt errors to be displayed on screen (CLEAN!!)
     print(colored("Exiting CountDown....!!", 'red', attrs=['reverse', 'blink']))
     sys.exit(0)
+
