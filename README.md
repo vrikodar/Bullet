@@ -18,7 +18,7 @@
 
 **when Triggered**
 
-![Capture](https://raw.githubusercontent.com/SxNade/Bullet/main/imgs/bullet.gif)
+![Capture](https://github.com/SxNade/Bullet/blob/main/bullet.gif)
 
 
 # `INSTALLING`
