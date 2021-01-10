@@ -3,7 +3,7 @@
 #CONTRIBUTE
 
 echo [*]This Script will install the required dependencies for bullet!
-echo [*]Suitable for Linux Systems prefrabely DEBIAN.
+echo [*]Suitable for Linux Systems preferabely DEBIAN.
 sudo apt install python3-pip
 sudo apt install python3
 sudo pip3 install termcolor
