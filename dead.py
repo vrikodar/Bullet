@@ -115,6 +115,7 @@ try:
         r = requests.get(sys.argv[2])
         #check for status code that is if the file exists on the server or not
         if r.status_code == 200:
+          #for calculating the number of requests made each time!
             n = n2
             print(colored(f"request no.{n2} OK", 'green'))
             n2 = int(n) + int(1)
