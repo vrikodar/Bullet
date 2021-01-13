@@ -12,7 +12,7 @@
 
 ![Capture](https://steamuserimages-a.akamaihd.net/ugc/197428727429916161/44EC6EAB98336138E1FEC65B6E018306CB968630/)
 
-`Bullet is a Deadman switch password Encryptor`
+`Bullet is a Remotely Trigrrable powerful Deadman switch`
 
 **MADE BY-SxNade**
 
