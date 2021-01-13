@@ -10,7 +10,7 @@
 
 # Bullet
 
-![Capture](https://i.pinimg.com/originals/f4/f8/dd/f4f8ddffc474c65e9a48eaad11eaf9f7.gif)
+![Capture](https://cdn.dribbble.com/users/1206528/screenshots/3586609/third-scene-800x600_1.gif)
 
 `Bullet is a Deadman switch password Encryptor`
 
