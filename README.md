@@ -22,6 +22,7 @@
 
 ![Capture](https://github.com/SxNade/Bullet/blob/main/bullet.gif)
 
+---
 
 # `INSTALLING`
 
@@ -32,8 +33,6 @@
 `2 ./install.sh`
 
 # `HOW  DOES BULLET WORK?`
-
-**BEFORE RUNNING BULLET PLEASE EMPTY THE CONTENTS OF PS.TXT FILE(EVEN A DOT)**
 
 *Bullet comes with Two Python Scripts bullet.py and dead.py*
 
