@@ -123,6 +123,7 @@ try:
         else:
           #if the file was not found
           print(colored("[*]SWITCH TRIGGERRED!", 'red', attrs=['reverse', 'blink']))
+          time.sleep(2)
           #running the bullet.py script to encrypt the file contents
           os.system(f"python3 bullet.py {sys.argv[1]} {sys.argv[2]}")
           print(already_dead)
